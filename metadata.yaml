@@ -1,0 +1,25 @@
+_repo: A-bolcseseg-vigasztalasai_63512
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Horváth, Dániel
+    gutenberg_agent_id: '52486'
+    url: http://www.gutenberg.org/2009/agents/52486
+creator:
+  author:
+    agent_name: Boethius, Anicius Manlius Torquatus Severinus
+    gutenberg_agent_id: '52485'
+    url: http://www.gutenberg.org/2009/agents/52485
+description: ''
+gutenberg_issued: '2020-10-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63512'
+language: hu
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: A' bölcseség vigasztalásai
+url: http://www.gutenberg.org/ebooks/63512
