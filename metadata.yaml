@@ -1,16 +1,21 @@
 _repo: A-bolcseseg-vigasztalasai_63512
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Horváth, Dániel
     gutenberg_agent_id: '52486'
     url: http://www.gutenberg.org/2009/agents/52486
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Boethius, Anicius Manlius Torquatus Severinus
     gutenberg_agent_id: '52485'
     url: http://www.gutenberg.org/2009/agents/52485
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63512#A-bolcseseg-vigasztalasai
 gutenberg_issued: '2020-10-20'
 gutenberg_type: Text
 identifiers:
